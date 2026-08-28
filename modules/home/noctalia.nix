@@ -1,0 +1,3 @@
+{ ... }: {
+  programs.noctalia.enable = true;
+}
