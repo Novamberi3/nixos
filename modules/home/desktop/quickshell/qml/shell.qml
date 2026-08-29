@@ -1,4 +1,3 @@
-
 import Quickshell
 
 ShellRoot {
