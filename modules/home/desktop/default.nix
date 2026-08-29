@@ -1,6 +1,6 @@
 { ... }: {
   imports = [
     ./niri
-    ./quickshell
+#    ./quickshell
   ];
 }
