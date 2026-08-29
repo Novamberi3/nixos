@@ -3,7 +3,7 @@
       NullNixos
    <br>
 </h1>
-<img alt="preview" src="https://github.com/Novamberi3/nixos/assets/pictures/preview.png"/>
+<img alt="preview" src="https://github.com/Novamberi3/nixos/blob/main/assets/pictures/preview.png"/>
 
 
 ## Hosts:
