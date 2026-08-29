@@ -1,8 +1,8 @@
 { ... }: {
-  programs.niri.settings.inputs = {
+  programs.niri.settings.input = {
     keyboard = {
       xkb = {
-        layout = "us,us,ara";
+        layout = "us,ara";
 #	variant = ",intl,";
         options = "grp:lalt_lshift_toggle";
       };
