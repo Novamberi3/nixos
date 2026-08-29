@@ -1,9 +1,7 @@
 { ... }: {
   imports = [
     ./noctalia.nix
-#    ./mangowm.nix
-    ./desktop/niri.nix
-    ./desktop/quickshell/settings.nix
+    ./desktop
     ./nvim.nix
     ./browser.nix
     ./fonts.nix
