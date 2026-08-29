@@ -1,19 +1,20 @@
 { pkgs, ... }: {
   home.packages = with pkgs; [
-    git
-    upower
-    mako
-    wireplumber
-    pipewire
-    xdg-desktop-portal-wlr
-    playerctl
-    wl-clipboard
-    cliphist
-    grim
-    slurp
-    yazi
-    tree
-    xwayland-satellite
+    appimage-run
     btop
+    cliphist
+    git
+    grim
+    mako
+    pipewire
+    playerctl
+    slurp
+    tree
+    upower
+    wireplumber
+    wl-clipboard
+    xdg-desktop-portal-wlr
+    xwayland-satellite
+    yazi
   ];
 }
