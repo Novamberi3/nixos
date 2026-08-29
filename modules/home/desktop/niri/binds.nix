@@ -1,6 +1,12 @@
 { ... }: {
   programs.niri.settings = {
     binds = {
+
+      # Mod + <var> -> View/Spawn
+      # Mod + Shift + <var> -> Move/Shift
+      # Mod + Alt + <var> -> Modify/Toggle
+      # Hyper + <var> -> Systems overlay/Utilities action
+
       "Mod+B".action.spawn = [ "niri" "msg" "action" "load-config-file" ];
       "Mod+Return".action.spawn = "foot";
 
