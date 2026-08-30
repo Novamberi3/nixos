@@ -2,7 +2,7 @@
   imports = [
     ./noctalia.nix
     ./desktop
-    ./nvim.nix
+    ./nvim
     ./browser.nix
     ./fonts.nix
     ./fish.nix
