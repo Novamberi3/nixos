@@ -5,9 +5,9 @@
       ids = [ "*" ];
       settings = {
         main = {
-  	  capslock = "overload(hyper, esc 120)";
-          esc = "capslock";
-	  rightshift = "delete";
+  	  capslock = "overload(hyper, esc)";
+	  esc = "capslock";
+	  rightshift = "backspace";
 
 	};
         "hyper:C-M-S-A" = {
