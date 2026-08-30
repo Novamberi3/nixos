@@ -8,6 +8,7 @@
     mako
     pipewire
     playerctl
+    ripgrep	
     slurp
     tree
     upower
