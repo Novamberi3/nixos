@@ -4,7 +4,7 @@
       xkb = {
         layout = "us,ara";
 #	variant = ",intl,";
-        options = "grp:lctrl_space_toggle";
+        options = "grp:lalt_space_toggle";
       };
     };
 
