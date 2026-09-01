@@ -37,30 +37,30 @@
       };
 
       colors-dark = {
-        background = "282828";
-        foreground = "ebdbb2";
+        background = "1e1e2e";
+        foreground = "cdd6f4";
 
-        regular0 = "282828";
-        regular1 = "cc241d";
-        regular2 = "98971a";
-        regular3 = "d79921";
-        regular4 = "458588";
-        regular5 = "b16286";
-        regular6 = "689d6a";
-        regular7 = "a89984";
+        regular0 = "45475a";  # Surface1  (black)
+        regular1 = "f38ba8";  # Red
+        regular2 = "a6e3a1";  # Green
+        regular3 = "fab387";  # Peach (accent)
+        regular4 = "89b4fa";  # Blue
+        regular5 = "f5c2e7";  # Pink (magenta)
+        regular6 = "94e2d5";  # Teal (cyan)
+        regular7 = "bac2de";  # Subtext1 (white)
 
-        bright0 = "928374";
-        bright1 = "fb4934";
-        bright2 = "b8bb26";
-        bright3 = "fabd2f";
-        bright4 = "83a598";
-        bright5 = "d3869b";
-        bright6 = "8ec07c";
-        bright7 = "ebdbb2";
+        bright0 = "585b70";   # Surface2  (bright black)
+        bright1 = "eba0ac";   # Maroon
+        bright2 = "a6e3a1";   # Green
+        bright3 = "fab387";   # Peach
+        bright4 = "74c7ec";   # Sapphire
+        bright5 = "cba6f7";   # Mauve
+        bright6 = "89dceb";   # Sky
+        bright7 = "cdd6f4";   # Text (bright white)
 
-        selection-foreground = "282828";
-        selection-background = "d5c4a1";
-      };
+        selection-foreground = "cdd6f4";
+        selection-background = "45475a";
+      };   
     };
   };
 }
